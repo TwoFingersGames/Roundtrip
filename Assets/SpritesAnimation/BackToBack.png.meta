@@ -62,6 +62,18 @@ TextureImporter:
   - first:
       213: 2020206612385864813
     second: BackToBack_19
+  - first:
+      213: -6841358345394978712
+    second: BackToBack_20
+  - first:
+      213: 1492723759926404230
+    second: BackToBack_21
+  - first:
+      213: -9086907719654779881
+    second: BackToBack_22
+  - first:
+      213: -5051771945006261982
+    second: BackToBack_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -181,7 +193,7 @@ TextureImporter:
         x: 1
         y: 173
         width: 18
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,7 +214,7 @@ TextureImporter:
         x: 20
         y: 173
         width: 18
-        height: 27
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,7 +235,7 @@ TextureImporter:
         x: 1
         y: 145
         width: 18
-        height: 28
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,7 +256,7 @@ TextureImporter:
         x: 20
         y: 145
         width: 18
-        height: 28
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,7 +277,7 @@ TextureImporter:
         x: 2
         y: 117
         width: 18
-        height: 28
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,7 +298,7 @@ TextureImporter:
         x: 22
         y: 116
         width: 18
-        height: 28
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,7 +319,7 @@ TextureImporter:
         x: 42
         y: 117
         width: 18
-        height: 28
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,7 +340,7 @@ TextureImporter:
         x: 61
         y: 116
         width: 18
-        height: 28
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,7 +361,7 @@ TextureImporter:
         x: 99
         y: 115
         width: 16
-        height: 28
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,7 +382,7 @@ TextureImporter:
         x: 122
         y: 116
         width: 16
-        height: 28
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,7 +403,7 @@ TextureImporter:
         x: 145
         y: 115
         width: 16
-        height: 28
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -433,7 +445,7 @@ TextureImporter:
         x: 2
         y: 88
         width: 18
-        height: 28
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,7 +466,7 @@ TextureImporter:
         x: 22
         y: 87
         width: 18
-        height: 28
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -475,7 +487,7 @@ TextureImporter:
         x: 42
         y: 88
         width: 18
-        height: 28
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -496,7 +508,7 @@ TextureImporter:
         x: 61
         y: 87
         width: 18
-        height: 28
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -517,7 +529,7 @@ TextureImporter:
         x: 99
         y: 83
         width: 16
-        height: 28
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,7 +550,7 @@ TextureImporter:
         x: 122
         y: 84
         width: 16
-        height: 28
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -559,7 +571,7 @@ TextureImporter:
         x: 145
         y: 83
         width: 16
-        height: 28
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -590,6 +602,90 @@ TextureImporter:
       bones: []
       spriteID: d6c9720e537390c10800000000000000
       internalID: 2020206612385864813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackToBack_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 49
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8600499f4dc9e01a0800000000000000
+      internalID: -6841358345394978712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackToBack_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 50
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684e232d95837b410800000000000000
+      internalID: 1492723759926404230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackToBack_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 51
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714d83fc291d4e180800000000000000
+      internalID: -9086907719654779881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackToBack_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 53
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2291e937e2084e9b0800000000000000
+      internalID: -5051771945006261982
       vertices: []
       indices: 
       edges: []
