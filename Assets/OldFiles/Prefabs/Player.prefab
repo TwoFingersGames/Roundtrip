@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7883512198076661307}
   - component: {fileID: 7883512198076661306}
   - component: {fileID: 7883512198076661301}
+  - component: {fileID: 2400801235735892628}
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -49,6 +50,7 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -133,3 +135,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2cf8517aeae58448b116a67e2853308, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!95 &2400801235735892628
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7883512198076661296}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
